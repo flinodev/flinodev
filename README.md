@@ -2,23 +2,23 @@
 I’m a Software Developer with over 5 years of experience building scalable and efficient web applications. I’m passionate about creating clean, maintainable code and delivering high-quality solutions.
 
 ## Technologies I’ve Worked With
-Frontend: Angular, React, TypeScript, CSS, Sass, Tailwind
+* Frontend: Angular, React, TypeScript, CSS, Sass, Tailwind
 
-Backend: Golang, Express.js
+* Backend: Golang, Express.js
 
-Databases & Cloud: PostgreSQL, MongoDB, Firebase, Google Cloud Platform
+* Databases & Cloud: PostgreSQL, MongoDB, Firebase, Google Cloud Platform
 
-DevOps & Tools: Docker, Kubernetes, Git, GitHub, GitLab
+* DevOps & Tools: Docker, Kubernetes, Git, GitHub, GitLab
 
 ## Methodologies
-Experienced with Agile practices, particularly Scrum.
+* Experienced with Agile practices, particularly Scrum.
 
 ## What I Enjoy
-Designing modern, user-friendly applications.
+* Designing modern, user-friendly applications.
 
-Exploring new technologies and improving development workflows.
+* Exploring new technologies and improving development workflows.
 
-Collaborating with teams to build robust and reliable software solutions.
+* Collaborating with teams to build robust and reliable software solutions.
 
 
 ## 🌐 Socials:
